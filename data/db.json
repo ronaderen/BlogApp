@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "hellllooooooooo brooooosss",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "My Second Blog",
+      "body": "HEEEEEEEEEEE",
+      "author": "luigi",
+      "id": 2
+    },
+    {
+      "title": "Hellol",
+      "body": "Text linguistics refers to a form of discourse analysis—a method of studying written or spoken language—that is concerned with the description and analysis of extended texts (those beyond the level of the single sentence). A text can be any example of written or spoken language, from something as complex as a book or legal document to something as simple as the body of an email or the words on the back of a cereal box.\n\nIn the humanities, different fields of study concern themselves with different forms of texts. Literary theorists, for example, focus primarily on literary texts—novels, essays, stories, and poems. Legal scholars focus on legal texts such as laws, contracts, decrees, and regulations. Cultural theorists work with a wide variety of texts, including those that may not typically be the subject of studies, such as advertisements, signage, instruction manuals, and other ephemera.",
+      "author": "mario",
+      "id": 3
+    }
+  ]
+}
